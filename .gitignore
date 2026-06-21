@@ -1,6 +1,6 @@
 build/
-tests/*.exe
-tests/*.o
+test/*.exe
+test/*.o
 *.uf2
 *.elf
 *.bin
